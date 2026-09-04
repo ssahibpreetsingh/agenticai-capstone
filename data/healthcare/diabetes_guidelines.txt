@@ -1,0 +1,41 @@
+TYPE 2 DIABETES MANAGEMENT GUIDELINES — REGIONAL HEALTH AUTHORITY (SUMMARY)
+
+Note: This is a simplified educational summary for training purposes only. It is not a
+substitute for professional medical advice.
+
+1. Diagnosis Thresholds
+Type 2 diabetes is diagnosed when fasting plasma glucose is 126 mg/dL or higher on two
+separate occasions, or HbA1c is 6.5% or higher, or random plasma glucose is 200 mg/dL
+or higher with classic symptoms present. Prediabetes is defined as fasting glucose of
+100–125 mg/dL or HbA1c of 5.7%–6.4%.
+
+2. First-Line Treatment
+Metformin is the recommended first-line pharmacological therapy for most newly
+diagnosed patients, alongside lifestyle modification (diet, physical activity, weight
+management). Initial dosing typically starts low and is titrated upward over several
+weeks to reduce gastrointestinal side effects.
+
+3. Monitoring Schedule
+HbA1c should be checked every 3 months until stable at target, then every 6 months
+once well-controlled. Target HbA1c is generally below 7% for most adults, though
+targets may be individualised (e.g., relaxed to below 8% for older adults with
+comorbidities, or tightened for younger patients early in diagnosis).
+
+4. Lifestyle Recommendations
+- At least 150 minutes per week of moderate-intensity physical activity
+- Weight loss of 5–7% of body weight if overweight, shown to significantly improve
+  glycaemic control
+- Reduced intake of refined carbohydrates and sugary beverages
+- Regular foot checks to monitor for peripheral neuropathy
+
+5. Missed Dose Guidance (General, Non-Insulin Oral Medication)
+If a dose of oral medication (such as metformin) is missed and it is close to the next
+scheduled dose, the missed dose should generally be skipped rather than doubled up.
+Patients should not take two doses at once to "catch up" without first consulting their
+prescribing clinician, as this may increase risk of side effects.
+
+6. When to Escalate Treatment
+If HbA1c remains above target after 3 months on maximum tolerated metformin dose,
+guidelines recommend adding a second agent (e.g., an SGLT2 inhibitor, GLP-1 receptor
+agonist, or sulfonylurea) based on patient comorbidities, cardiovascular risk, and cost
+considerations.

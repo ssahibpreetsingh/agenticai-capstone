@@ -1,0 +1,29 @@
+PATIENT FAQ — LAB RESULTS
+
+Note: Simplified educational content for training purposes only. Not medical advice.
+
+Q: How long does it take to get my lab results?
+A: Routine blood tests are typically available within 3–5 working days. Results are
+reviewed by your ordering clinician before being released to you, so there may be a
+short delay even after the lab has processed the sample.
+
+Q: My HbA1c result came back higher than my target — what does this mean?
+A: HbA1c reflects average blood glucose over roughly the past 2–3 months. A result
+above target suggests glucose control may need adjustment, which could involve
+lifestyle changes, a medication dose adjustment, or adding a new medication. Your
+clinician will review the full picture (trend over time, other health factors) before
+recommending next steps — a single elevated reading is not by itself a cause for alarm,
+but should be discussed with your care team at your next follow-up or sooner if you're
+concerned.
+
+Q: Can I view my lab results before my clinician has reviewed them?
+A: Routine results are held for clinician review before release, generally within 24–48
+hours of the lab processing them, to ensure results are explained with appropriate
+context. Urgent/critical results are flagged for expedited clinician contact directly,
+rather than being released to the portal first.
+
+Q: What should I do if I don't understand my results?
+A: Contact the clinic to schedule a review call or message your care team through the
+patient portal. Do not rely solely on general online reference ranges, as normal ranges
+and clinical significance can vary by individual context, method used, and comorbid
+conditions.

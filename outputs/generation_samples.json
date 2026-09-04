@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Can I postpone my EMI payment if I'm going through financial hardship?",
+    "answer": "Yes, you can request an EMI deferral if you\u2019re experiencing genuine financial hardship. The bank allows deferral of up to two EMIs per loan tenure, subject to approval; interest continues to accrue and the loan tenure is extended accordingly. You must submit the request at least five working days before the EMI due date.  \n\nSources: faq_emi.txt",
+    "retrieved_sources": [
+      "faq_emi.txt"
+    ]
+  },
+  {
+    "query": "How much will I be charged if I close my account after 2 months?",
+    "answer": "If you close your account after 2 months (which falls between 14 days and 12 months of opening), the bank will apply a closure charge of INR\u202f500.  \n\nSources: account_closure.txt",
+    "retrieved_sources": [
+      "fee_structure.txt",
+      "account_closure.txt",
+      "faq_emi.txt"
+    ]
+  },
+  {
+    "query": "What's the capital of France?",
+    "answer": "I don't have enough information to answer that precisely \u2014 please contact your care team directly.  \nSources: none",
+    "retrieved_sources": [
+      "fraud_policy.txt",
+      "loan_policy.txt",
+      "faq_emi.txt"
+    ]
+  }
+]

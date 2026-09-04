@@ -1,0 +1,32 @@
+{
+  "ragas": "",
+  "llm_judge": [
+    {
+      "query": "Can I postpone my EMI payment if I'm going through financial hardship?",
+      "scores": {
+        "relevance": 5,
+        "faithfulness": 5,
+        "completeness": 4,
+        "reasoning": "The answer directly addresses postponing EMI due to hardship and aligns with the cited source, though it omits additional details like potential fees or credit impact that a user might need."
+      }
+    },
+    {
+      "query": "How much will I be charged if I close my account after 2 months?",
+      "scores": {
+        "relevance": 5,
+        "faithfulness": 5,
+        "completeness": 5,
+        "reasoning": "The answer directly states the closure charge for a 2\u2011month account, matches the cited source, and provides the information a user would need."
+      }
+    },
+    {
+      "query": "What's the capital of France?",
+      "scores": {
+        "relevance": 1,
+        "faithfulness": 5,
+        "completeness": 1,
+        "reasoning": "The answer fails to provide the requested information and instead deflects, showing no relevance or completeness while not inventing any facts."
+      }
+    }
+  ]
+}

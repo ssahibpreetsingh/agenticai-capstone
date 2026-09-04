@@ -1,0 +1,27 @@
+APPOINTMENT AND SCHEDULING POLICY
+
+1. Booking Window
+Routine follow-up appointments can be booked up to 60 days in advance. Urgent
+appointments (flagged by triage as needing review within 48 hours) are booked into a
+same-day or next-day reserved slot pool.
+
+2. Cancellation Policy
+Patients should cancel or reschedule at least 24 hours in advance where possible.
+Repeated late cancellations (fewer than 24 hours' notice) or no-shows may result in a
+review of future booking priority, though care is never denied on this basis for
+urgent needs.
+
+3. Follow-Up Scheduling for Chronic Conditions
+Patients on chronic disease management plans (e.g., Type 2 Diabetes) are typically
+scheduled for follow-up every 3 months during active titration of medication, moving to
+every 6 months once stable at target, per the relevant clinical guideline.
+
+4. Lab Results Turnaround
+Routine lab results are typically available within 3–5 working days and are reviewed
+by the ordering clinician before being released to the patient portal. Urgent/flagged
+results are reviewed and communicated to the patient within 24 hours.
+
+5. Telehealth vs In-Person
+Follow-up appointments for stable chronic conditions may be conducted via telehealth
+where clinically appropriate. New patient assessments, physical examinations, and any
+appointment following an abnormal lab result generally require an in-person visit.
